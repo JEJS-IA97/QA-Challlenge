@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\samo\\qa-challenge\\qa-api\\qa-api.csproj": {}
+    "C:\\Users\\josee\\OneDrive\\Escritorio\\qa-challenge\\qa-api\\qa-api.csproj": {}
   },
   "projects": {
-    "C:\\src\\samo\\qa-challenge\\qa-api\\qa-api.csproj": {
+    "C:\\Users\\josee\\OneDrive\\Escritorio\\qa-challenge\\qa-api\\qa-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\samo\\qa-challenge\\qa-api\\qa-api.csproj",
+        "projectUniqueName": "C:\\Users\\josee\\OneDrive\\Escritorio\\qa-challenge\\qa-api\\qa-api.csproj",
         "projectName": "qa-api",
-        "projectPath": "C:\\src\\samo\\qa-challenge\\qa-api\\qa-api.csproj",
-        "packagesPath": "C:\\Users\\Arias\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\samo\\qa-challenge\\qa-api\\obj\\",
+        "projectPath": "C:\\Users\\josee\\OneDrive\\Escritorio\\qa-challenge\\qa-api\\qa-api.csproj",
+        "packagesPath": "C:\\Users\\josee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josee\\OneDrive\\Escritorio\\qa-challenge\\qa-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Arias\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\josee\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -66,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
